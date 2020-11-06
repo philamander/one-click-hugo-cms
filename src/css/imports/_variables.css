@@ -1,14 +1,14 @@
 :root {
-	/* Colors */
-	--primary: rgba(255, 68, 0, 1);
-	--highlight: rgba(254, 213, 198, 1);
+	/* Colors - using palette https://coolors.co/107acb-1f8fdb-3bacf2-5fc3ff-066d49-058b48-43a448-62b242-ffffff*/
+	--primary: rgba(16, 122, 203, 1);
+	--highlight: rgba(95, 195, 255, 1);
 	--white: rgba(255, 255, 255, 1);
 	--off-white: rgba(255, 253, 252, 1);
 	--grey-1: rgba(245, 243, 242, 1);
-	--grey-2: rgba(235, 231, 230, 1);
-	--grey-3: rgba(89, 87, 86, 1);
-	--grey-4: rgba(66, 64, 64, 1);
-	--black: rgba(43, 37, 35, 1);
+	--grey-2: rgba(98, 178, 66, 1);
+	--grey-3: rgba(67, 164, 72, 1);
+	--grey-4: rgba(5, 139, 72, 1);
+	--black: rgba(6, 109, 73, 1);
 
 	/* Typography */
 	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
